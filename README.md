@@ -29,7 +29,7 @@ import AutoHeightHoverPlugin, { AutoHeightHover } from 'auto-height-hover'
 // or
 
 const app = createAp()
-app.use(AutoHeightHover)
+app.use(AutoHeightHoverPlugin)
 ```
 
 ## props
